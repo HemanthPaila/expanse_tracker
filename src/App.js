@@ -5,20 +5,20 @@ const DUMMY_EXPENSES = [
   {
     id: "e1",
     title: "car insurence",
-    amount: "$100",
+    amount: "100",
     date: new Date(2020, 7, 14),
   },
   {
     id: "e2",
     title: "new tv",
-    amount: "$15000",
-    date: new Date(2021, 7, 14),
+    amount: "15000",
+    date: new Date(2021, 1, 14),
   },
   {
     id: "e3",
     title: "cycle",
-    amount: "$5000",
-    date: new Date(2022, 7, 14),
+    amount: "5000",
+    date: new Date(2022, 11, 14),
   },
 ];
 const App = () => {
